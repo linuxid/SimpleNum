@@ -1,0 +1,7 @@
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\bin\Debug\Randomizer.exe.config
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\bin\Debug\Randomizer.exe
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\bin\Debug\Randomizer.pdb
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\obj\Debug\Randomizer.csprojAssemblyReference.cache
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\obj\Debug\Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\obj\Debug\Randomizer.exe
+C:\Users\Oleksa\source\repos\Randomizer\Randomizer\obj\Debug\Randomizer.pdb
